@@ -2,7 +2,8 @@
   "shouldExtractLiteralValuesFromEnum": true,
   "include": [
     "src/**/*.ts",
-    "src/**/*.tsx"
+    "src/**/*.tsx",
+    "types"
   ],
   "exclude": [
     "node_modules",
